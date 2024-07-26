@@ -7,7 +7,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    android:background="#C0C0C0"
+    android:background="#FF9C7A85"
     tools:context="com.example.quiz.DeveloperActivity">
 
     <TextView
@@ -19,7 +19,7 @@
         android:layout_marginTop="33dp"
         android:textSize="40dp"
         android:layout_alignParentTop="true"
-        android:textColor="#8A2BE2"
+        android:textColor="#FF271D20"
         android:textAlignment="center"
         android:layout_alignParentEnd="false"
         android:layout_alignParentStart="false"
@@ -48,7 +48,7 @@
         android:layout_marginTop="101dp"
         android:layout_marginEnd="304dp"
         android:layout_marginRight="304dp"
-        android:src="@drawable/download" />
+        android:src="@drawable/k" />
 
     <TextView
         android:id="@+id/textView5"
@@ -57,10 +57,10 @@
         android:layout_alignTop="@+id/imageView"
         android:layout_alignEnd="@+id/textView7"
         android:layout_alignRight="@+id/textView7"
-        android:layout_marginTop="8dp"
-        android:layout_marginEnd="-71dp"
-        android:layout_marginRight="-71dp"
-        android:text="Janvi Rajyaguru"
+        android:layout_marginTop="12dp"
+        android:layout_marginEnd="-90dp"
+        android:layout_marginRight="-90dp"
+        android:text="Khushbu Visaveliya"
         android:textAppearance="?android:attr/textAppearanceLarge" />
 
     <TextView
@@ -73,7 +73,7 @@
         android:layout_marginTop="12dp"
         android:layout_marginEnd="-68dp"
         android:layout_marginRight="-68dp"
-        android:text="janvirajyaguru11@gmail.com"
+        android:text="Khushivisaveliya810@gmail.com"
         android:textAppearance="?android:attr/textAppearanceMedium" />
 
     <TextView
